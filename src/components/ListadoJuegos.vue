@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1 class="title">Tienda 32 bites</h1>
+        <h1 class="title">Mr Robot</h1>
         <h3 class="subtitle">Listado de Juegos</h3>
         <table class="table-juegos">
             <thead>
