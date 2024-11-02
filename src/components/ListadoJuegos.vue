@@ -50,20 +50,20 @@ export default {
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
-    background-color: #FFFDB5;
+    background-color: #390051;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .title {
     text-align: center;
     margin-bottom: 20px;
-    color: #2E073F
+    color: #e0e0e0
 }
 .subtitle {
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
     text-decoration: underline;
-    color:#232020;
+    color:#d8d8d8;
 }
 
 .table-juegos {
@@ -71,15 +71,15 @@ export default {
     border: 3px solid #624E88;
     margin: 0 auto;
     margin-bottom: 20px;
-    color:#232020
+    color:#91ff0b
 }
 
 .table-juegos th,
 .table-juegos td {
-    border: 1px solid #8967B3;
+    border: 1px solid #ff7e14;
     padding: 8px;
     text-align: center;
-    background: #FFF5E4;
+    background: #292929;
 }
 
 button {
