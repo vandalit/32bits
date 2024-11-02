@@ -1,11 +1,16 @@
-<script setup>
-
-</script>
-
 <template>
-
+  <div>
+    <ListadoJuegos />
+  </div>
 </template>
 
-<style scoped>
+<script>
+import ListadoJuegos from './components/ListadoJuegos.vue'
 
-</style>
+export default {
+  name: ' App',
+  components: {
+    ListadoJuegos
+  }
+}
+</script>
